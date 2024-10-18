@@ -81,7 +81,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="120dp"
-                android:text="Kako se zove covjek koji je primio 10 Bozjih zapovijedi?"
+                android:text="Loading..."
                 android:textStyle="bold"
                 android:textSize="20sp"
                 android:padding="8dp"
